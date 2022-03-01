@@ -1,0 +1,28 @@
+{
+  "name": "chat-extension",
+  "version": "1.0.0",
+  "description": "Chat Extension for Chrome.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunPodder/chat-ext.git"
+  },
+  "keywords": [
+    "Chat",
+    "Chat-Extension",
+    "Chrome-Extension",
+    "Google-Chrome"
+  ],
+  "author": "SunPodder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SunPodder/chat-ext/issues"
+  },
+  "homepage": "https://github.com/SunPodder/chat-ext#readme",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
